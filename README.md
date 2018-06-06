@@ -1,6 +1,6 @@
 # Counting Sort Algorithm
 
-A simple implimentation of counting sort algorithm. The source array generate randomly.
+A simple implimentation of counting sort algorithm. The source array is generated randomly.
 
 Example of using:
 
