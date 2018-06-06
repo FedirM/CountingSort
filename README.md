@@ -2,7 +2,7 @@
 
 A simple implimentation of counting sort algorithm. The source array is generated randomly.
 
-Example of using:
+Usage:
 
 ```powershell
 22 65 6 42 12 34 -41 -80 21 79 95 58 -18 -78 -39 92 14 -84 -80 87 -35 72 -92 -48
